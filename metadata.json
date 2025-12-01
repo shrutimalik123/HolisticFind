@@ -1,0 +1,7 @@
+{
+  "name": "HolisticFind",
+  "description": "A localized directory connecting users with holistic and integrative health practitioners using AI-powered search and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
